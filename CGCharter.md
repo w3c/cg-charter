@@ -202,8 +202,7 @@ Participants dissatisfied with the outcome of an election may ask the
       Development Lead, after evaluating the election, may take any
       action including no action.
 
-## Amendments to This Charter
-{#charter_change}
+## Amendments to This Charter {:#charter_change}
 
 The group can decide to work on a proposed amended charter, editing
 the text using the [Decision Process](#decision) described above.  The
