@@ -22,14 +22,12 @@ This Charter is work in progress. To submit feedback, please use {TBD:GitHub rep
 * **Last Modified:** {TBD: date of last modification}
 
 ## Goals
-{:#goals}
 
 {TBD: describe the mission and goals of the Community Group. This
       should be a brief description describing the reason the group
       has been formed.}
 
 ## Scope of Work
-{:#scope}
 
 {TBD: describe topics that are in scope For specifications that the CLA
       patent section applies to, it is helpful to describe the scope in a way
@@ -42,17 +40,14 @@ This Charter is work in progress. To submit feedback, please use {TBD:GitHub rep
       licensing obligations may apply.}
 
 ### Out of Scope
-{:#out_of_scope}
 
 {TBD: identify topics known in advance to be out of scope.}
 
 ## Deliverables
-{:#deliverables}
 
 ### Specifications
-{:#specifications}
 
- {TBD: Provide a brief description of each specification the group
+{TBD: Provide a brief description of each specification the group
       plans to produce. Where an estimate is possible, it can be
       useful to provide an estimated schedule for key deliverables. As
       described below, the group may later modify the charter
@@ -60,12 +55,10 @@ This Charter is work in progress. To submit feedback, please use {TBD:GitHub rep
       will be produced under the current charter."}
 
 ### Non-Normative Reports
-{:#non_normative_reports}
 
 The group may produce other Community Group Reports within the scope of this charter that are not specifications, such as use cases, requirements, or white papers.
 
 ### Test Suites and Other Software
-{:#test_suites}
 
 {TBD: If there are no plans to create a test suite or other software,
      please state that and remove the following paragraph. If Github
@@ -76,13 +69,11 @@ The group may produce other Community Group Reports within the scope of this cha
 The group **may** produce test suites to support the specifications. See the GitHub `LICENSE` file for test suite contribution licensing information.
 
 ## Dependencies or Liaisons
-{:#liaisons}
 
 {TBD: List any significant dependencies on other groups (inside or
       outside W3C) or materials. }
 
 ## Community and Business Group Process
-{:#process}
 
 The group operates under the [Community and Business Group
 Process](https://www.w3.org/community/about/process). Terms in this
@@ -107,7 +98,6 @@ The [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and [W3C
 The group will not publish specifications on topics other than those listed under [Specifications](#specifications). See below for [how to modify the charter](charter_change).
 
 ## Contribution Mechanics
-{:#contrib}
 
 Substantive contributions to specifications can only be made by Community Group Participants who have agreed to the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/process/cla/).
 
@@ -122,14 +112,12 @@ Community Group participants agree to make all contributions in the GitHub repos
 All GitHub repositories attached to the Community Group must contain a copy of the [CONTRIBUTING](https://github.com/w3c/licenses/blob/master/CG-CONTRIBUTING.md) and [LICENSE](https://github.com/w3c/licenses/blob/master/CG-LICENSE.md) files.
 
 ## Transparency
-{:#transparency}
 
 The group will conduct all technical work in public. If the group uses GitHub, technical work will occur in its GitHub repositories (and not privately on mailing lists).
 
 Meetings may be restricted to Community Group participants, but a public summary or minutes must be posted to the group’s public mailing list or as an issue on GitHub.
 
 ## Decision Process
-{:#decision}
 
 {TBD: If the decision policy is documented elsewhere, link to it here.}
 
@@ -174,7 +162,6 @@ It is the Chairs' responsibility to ensure that the decision process
       participant or their employer.
 
 ## Chair Selection
-{:#chairs}
 
 Participants in this group choose their Chair(s) and can replace their
       Chair(s) at any time using whatever means they prefer. However, if 5
@@ -202,7 +189,7 @@ Participants dissatisfied with the outcome of an election may ask the
       Development Lead, after evaluating the election, may take any
       action including no action.
 
-## Amendments to This Charter {:#charter_change}
+## Amendments to This Charter
 
 The group can decide to work on a proposed amended charter, editing
 the text using the [Decision Process](#decision) described above.  The
