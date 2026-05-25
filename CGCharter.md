@@ -101,7 +101,7 @@ The group will not publish specifications on topics other than those listed unde
 
 Substantive contributions to specifications can only be made by Community Group Participants who have agreed to the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/process/cla/).
 
-Specifications created in the Community Group must use the [W3C Software and Document License](https://www.w3.org/copyright/software-license-2023/). All other documents should use that License where possible.
+Reports other than Specifications published by this group should use the [W3C Software and Document License](https://www.w3.org/copyright/software-license-2023/) where possible.
 
 {TBD: if CG doesn't use GitHub replace the remaining paragraphs in
       this section with: "All Contributions are made on the groups
