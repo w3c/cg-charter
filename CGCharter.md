@@ -109,7 +109,7 @@ Reports other than Specifications published by this group should use the [W3C So
 
 Community Group participants agree to make all contributions in the GitHub repository the group is using for the particular document — e.g., via pull requests, issues, or comments on existing issues. 
 
-All GitHub repositories attached to the Community Group must contain a copy of the [CONTRIBUTING](https://github.com/w3c/licenses/blob/master/CG-CONTRIBUTING.md) and [LICENSE](https://github.com/w3c/licenses/blob/master/CG-LICENSE.md) files.
+All GitHub repositories attached to the Community Group must contain a copy of the [CONTRIBUTING](https://github.com/w3c/licenses/blob/main/CG-CONTRIBUTING.md) and [LICENSE](https://github.com/w3c/licenses/blob/main/CG-LICENSE.md) files.
 
 ## Transparency
 
