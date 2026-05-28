@@ -178,7 +178,7 @@ Participants choose their Chair(s) and can replace them at any time. However, if
 * Participants vote. Participants have 21 days to vote for a single
       candidate, but this period ends as soon as all participants have
       voted.  The individual who receives the most votes, no two from
-      the same organisation, is elected chair. In case of a tie,
+      the same organization, is elected chair. In case of a tie,
       RFC3797 is used to break the tie. An elected Chair may appoint
       co-Chairs.
 
