@@ -14,7 +14,7 @@
       in your specific charter.}
 
 {TBD: remove next sentence before submitting for approval}  
-This Charter is work in progress. To submit feedback, please use {TBD:GitHub repository URL} Issues where the Charter is being developed.
+This Charter is a work in progress. To submit feedback, please use {TBD:GitHub repository URL} Issues where the Charter is being developed.
 
 * **This Charter:** {TBD: URI}  
 * **Previous Charter:** {TBD: URI}  
@@ -29,15 +29,14 @@ This Charter is work in progress. To submit feedback, please use {TBD:GitHub rep
 
 ## Scope of Work
 
-{TBD: describe topics that are in scope For specifications that the CLA
-      patent section applies to, it is helpful to describe the scope in a way
-      that it is clear what types of technologies will be defined in
-      specifications, as opposed to adoption by reference or underlying
-      technology not defined in the proposed spec. Key use cases are often
-      helpful in describing scope. If no specifications will be defined in the
-      group that the CLA patent section applies to, the charter should clearly
-      state that. A clear scope is particularly important where patent
-      licensing obligations may apply.}
+{TBD: Describe topics that are in scope.
+      It is helpful to describe the scope in a way
+      that makes clear what types of technologies will be defined in
+      Specifications, as opposed to adoption by reference or underlying
+      technology not defined in the proposed Specifications.
+      Key use cases are often helpful in describing the scope.
+      If the CG does not plan to publish Specifications,
+      the charter should clearly say so.}
 
 ### Out of Scope
 
@@ -47,16 +46,16 @@ This Charter is work in progress. To submit feedback, please use {TBD:GitHub rep
 
 ### Specifications
 
-{TBD: Provide a brief description of each specification the group
+{TBD: Provide a brief description of each Specification the group
       plans to produce. Where an estimate is possible, it can be
       useful to provide an estimated schedule for key deliverables. As
       described below, the group may later modify the charter
-      deliverables. if no specifications, include: "No Specifications
+      deliverables. If no Specifications, include: "No Specifications
       will be produced under the current charter."}
 
 ### Non-Normative Reports
 
-The group may produce other Community Group Reports within the scope of this charter that are not specifications, such as use cases, requirements, or white papers.
+The group may produce other Community Group Reports within the scope of this charter that are not Specifications, such as use cases, requirements, or white papers.
 
 ### Test Suites and Other Software
 
@@ -123,27 +122,26 @@ Meetings may be restricted to Community Group participants, but a public summary
 
 This group will seek to make decisions where there is
       consensus. Groups are free to decide how to make decisions
-      (e.g. Participants who have earned Committer status for a
+      (e.g., Participants who have earned Committer status for a
       history of useful contributions assess consensus, or the Chair
       assesses consensus, or where consensus isn't clear there is a
       Call for Consensus [CfC] to allow multi-day online feedback for
       a proposed course of action). It is expected that participants
       can earn Committer status through a history of valuable
-      contributions as is common in open source projects. After
-      discussion and due consideration of different opinions, a
+      contributions, as is common in open source projects. After
+      discussion and due to consideration of different opinions, a
       decision should be publicly recorded (where GitHub is used as
       the resolution of an Issue).
 
-
-If substantial disagreement remains (e.g. the group is divided) and
+If substantial disagreement remains (e.g., the group is divided) and
       the group needs to decide an Issue in order to continue to make
       progress, the Committers will choose an alternative that had
       substantial support (with a vote of Committers if
       necessary). Individuals who disagree with the choice are
       strongly encouraged to take ownership of their objection by
       taking ownership of an alternative fork. This is explicitly
-      allowed (and preferred to blocking progress) with a goal of
-      letting implementation experience inform which spec is
+      allowed (and preferred to blocking progress) 
+      to let implementation experience inform which spec is
       ultimately chosen by the group to move ahead with.
 
 Any decisions reached at any meeting are tentative and should be
@@ -158,14 +156,14 @@ Any decisions reached at any meeting are tentative and should be
 
 It is the Chairs' responsibility to ensure that the decision process
       is fair, respects the consensus of the CG, and does not
-      unreasonably favour or discriminate against any group
+      unreasonably favor or discriminate against any group
       participant or their employer.
 
 ## Chair Selection
 
 Participants in this group choose their Chair(s) and can replace their
       Chair(s) at any time using whatever means they prefer. However, if 5
-      participants, no two from the same organisation, call for an election,
+      participants, no two from the same organization, call for an election,
       the group must use the following process to replace any current Chair(s)
       with a new Chair, consulting the Community Development Lead on election
       operations (e.g., voting infrastructure and using [RFC 3797](https://datatracker.ietf.org/doc/html/rfc3797)).
