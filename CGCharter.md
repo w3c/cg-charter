@@ -168,7 +168,6 @@ Participants in this group choose their Chair(s) and can replace their
       with a new Chair, consulting the Community Development Lead on election
       operations (e.g., voting infrastructure and using [RFC 3797](https://datatracker.ietf.org/doc/html/rfc3797)).
 
-Participants choose their Chair(s) and can replace them at any time. However, if 5 participants (no two from the same organization) call for an election, the group must use the following process, consulting the Community Development Lead on election operations:
 
 * Participants announce their candidacies. Participants have 14 days to
       announce their candidacies, but this period ends as soon as all
